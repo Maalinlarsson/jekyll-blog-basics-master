@@ -201,6 +201,7 @@ p:last-child {
 .text-light     { color: var(--light-text);}
 .subtle         { opacity: 0.8;     }
 .subtitle       { font-size: 0.8rem; }
+.white-text     { color: white; }
 
 
 /* ------------ Buttons & Links ------------ */
@@ -423,6 +424,9 @@ hr.short.center {
   margin: 1rem auto;
 }
 
+.shopify-buy__product__title {
+  color: white;
+}
 
 /* ------------ Page Name  ----------------------- */
 
